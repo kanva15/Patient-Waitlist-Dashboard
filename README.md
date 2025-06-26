@@ -57,11 +57,6 @@ The dashboard allows medical or administrative staff to:
 
 ---
 
-## 📸 Preview
-
-![dashboard-overview](screenshots/dashboard-overview.png)
-
----
 
 ## 🧑‍💻 Author
 
