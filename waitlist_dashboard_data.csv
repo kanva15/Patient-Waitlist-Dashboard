@@ -1,0 +1,6 @@
+patient_id,name,age,gender,service_type,request_date,urgency_level,appointment_date,status
+1,"John Doe",45,Male,Cardiology,2025-06-01,3,NULL,Pending
+2,"Jane Smith",34,Female,Neurology,2025-06-10,2,2025-07-01,Scheduled
+3,"Alice Johnson",29,Female,Orthopedics,2025-06-15,4,NULL,Pending
+4,"Bob Lee",58,Male,Oncology,2025-05-20,5,NULL,Pending
+5,"Emily Davis",63,Female,Dermatology,2025-06-05,1,2025-07-10,Scheduled
